@@ -34,7 +34,7 @@ docker-compose up
 
 * Managing orders and tickets
 * Creating cinema halls
-* Adding movie sessions with associated genres and cinema hall
+* Adding movie sessions associated with cinema hall
 * Filtering movies and movie sessions
 * User and superuser functionality
 * Admin panel for advanced managing
