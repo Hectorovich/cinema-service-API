@@ -1,4 +1,4 @@
-# Taxi service
+# Cinema service
 
 API service for cinema management written using DRF
 
